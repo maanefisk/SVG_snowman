@@ -51,3 +51,11 @@ circle.bowtie {
 polygon.bowtie {
     fill: rgb(0, 0, 0);
 }
+
+rect.shine {
+    fill: rgb(31, 47, 117);
+}
+
+rect.shinetwo {
+    fill: rgb(20, 34, 95);
+}
