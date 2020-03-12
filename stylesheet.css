@@ -1,0 +1,25 @@
+
+
+rect.board {
+    background-image: linear-gradient(blue,purple);
+}
+
+rect.snowbg {
+    fill: rgb(209, 237, 247);
+    stroke: lightskyblue;
+    stroke-width: 2%;
+}
+
+circle.body {
+    fill: rgb(209, 237, 247);
+    stroke: rgb(161, 202, 228);
+    stroke-width: 2%;
+}
+
+circle.eyes {
+    fill: rgb(36, 29, 28);
+}
+
+circle.eyeswhite {
+    fill: rgb(105, 100, 100);
+}
